@@ -1,0 +1,6 @@
+framework module Pods_Baby_Jaserick {
+  umbrella header "Pods-Baby_Jaserick-umbrella.h"
+
+  export *
+  module * { export * }
+}
